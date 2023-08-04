@@ -1,3 +1,5 @@
 Name Roks
 
 Age 18
+
+Favorite color beige
